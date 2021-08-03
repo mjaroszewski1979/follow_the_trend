@@ -1,7 +1,7 @@
 from flask import Flask, Blueprint
 import flask_login
 from extensions import db, login_manager
-from utilities import data
+
 
 
 
