@@ -17,7 +17,7 @@
 
 -------------------------------------------------
 
- ![caption](https://github.com/mjaroszewski1979/tf_pro/blob/main/trend_follower.gif)
+ ![caption](https://github.com/mjaroszewski1979/follow_the_trend/blob/main/trend_follower.gif)
 
   
   Live | Code | Technologies
