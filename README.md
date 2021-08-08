@@ -13,6 +13,8 @@
 * The SQLAlchemy Object Relational Mapper to associate user-defined Python classes with database tables
 * Moving the email send function to a background thread to avoid unnecessary delays during request handling &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/email.png">
 * Flashing error messages back to users when something goes wrong
+* Storing app’s secure credentials in environment variables &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/security.png">
+* A highly adaptable and scalable workflow for structuring and configuring a production-grade flask application using flask blueprints and the application factory pattern
 
 
 -------------------------------------------------
